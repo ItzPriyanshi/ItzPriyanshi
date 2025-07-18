@@ -1,20 +1,20 @@
 name: Contribution Snake
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build_snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate snake svg
+      - name: Generate snake SVG
         uses: platane/snk@v0.6.0
         with:
           output: output/github-contribution-grid-snake-dark.svg
-      - name: Commit snake SVG
+      - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
