@@ -1,17 +1,19 @@
-<!-- Centered futuristic header -->
+<!-- HEADER -->
 <div align="center">
   <img src="header.svg" alt="Typing FUTURE CODE" />
 </div>
 
 ## 🚀 Welcome to My Futuristic Lair
 
-<img src="assets/gifs/neon-loading.gif" width="320" alt="neon loading"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/lL8SMB43dB9w8yoU7v/giphy.gif" alt="Neon coding animation" width="320" />
+</div>
 
-Hi, I'm **Priyanshi Kair**, futuristic dev obsessed with AI‑driven UIs, neon CSS & SVG magic.
+Hi, I'm **Priyanshi Kaur**—a futuristic dev into AI‑UI, neon CSS & SVG sorcery.
 
-- 🔧 Working on **Project Aura** (neon UI w/ particles)
-- 🎨 Crafting **SynthCode**, a Tron‑style code editor theme
-- 🌟 Exploring Web3 + Three.js immersive interfaces
+- 🔧 Building **Project Aura** (glowing UI + particles)
+- 🎨 Crafting **SynthCode**, a Tron-inspired editor theme
+- 🌌 Exploring immersive Web3 + Three.js worlds
 
 ---
 
@@ -19,6 +21,6 @@ Hi, I'm **Priyanshi Kair**, futuristic dev obsessed with AI‑driven UIs, neon C
 
 - **Languages**: TypeScript · Rust · GLSL  
 - **Frameworks**: Svelte · Three.js · TailwindCSS  
-- **Neon Effects**: 
+- **Neon flair**:  
   ```html
-  <span class="neon-text">NEON VIBES</span>
+  <span class="neon-text">FUTURISTIC VIBES</span>
