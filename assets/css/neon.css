@@ -4,17 +4,12 @@
 }
 .neon-text {
   color: var(--neon-color);
-  text-shadow:
-    0 0 5px var(--neon-glow),
-    0 0 10px var(--neon-glow),
-    0 0 20px var(--neon-glow);
+  text-shadow: 0 0 5px var(--neon-glow),
+               0 0 10px var(--neon-glow),
+               0 0 20px var(--neon-glow);
   animation: pulse 2s infinite alternate;
 }
 @keyframes pulse {
-  from { text-shadow:
-    0 0 5px var(--neon-glow),
-    0 0 10px var(--neon-glow); }
-  to { text-shadow:
-    0 0 20px var(--neon-glow),
-    0 0 40px var(--neon-glow); }
+  from { text-shadow: 0 0 5px var(--neon-glow), 0 0 10px var(--neon-glow); }
+  to   { text-shadow: 0 0 20px var(--neon-glow), 0 0 40px var(--neon-glow); }
 }
